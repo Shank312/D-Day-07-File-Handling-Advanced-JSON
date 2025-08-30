@@ -1,0 +1,8 @@
+
+{
+    "app_name": "SuperApp",
+    "version": "1.0",
+    "author": "John",
+    "theme": "dark",
+    "refresh_interval": 60 
+}
